@@ -8,7 +8,7 @@ Transformer论文Attention is All You Need的代码中文注释实现，翻译�
 
 如果发现有不妥之处欢迎随时指正！(ง •_•)ง
 
-原始项目：harvardnlp/annotated-transformer
+原始项目：[harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer/)
 Copyright (c) 2018 Alexander Rush
 v2022: Austin Huang, Suraj Subramanian, Jonathan Sum, Khalid Almubarak, and Stella Biderman.
 Original: Sasha Rush.
