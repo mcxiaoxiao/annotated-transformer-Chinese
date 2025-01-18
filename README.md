@@ -1,5 +1,5 @@
 # annotated-transformer-Chinese
-Transformer论文Attention is All You Need的代码中文注释实现，翻译自harvardnlp/annotated-transformer
+Transformer 论文 Attention is All You Need 的 pytorch 代码中文注释实现，翻译自harvardnlp/annotated-transformer
 本项目是对原始项目 The Annotated Transformer 的中文翻译和注解版本。旨在使原始项目更加直观、易于理解，并提供中文示例以帮助读者更好地使用该项目。
 
 这里对原始项目进行了大量的中文翻译，同时对一些导致不可运行的问题进行了修复。此外，还添加了详细的注解，以帮助读者更好地理解相关概念和流程。
